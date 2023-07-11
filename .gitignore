@@ -1,0 +1,7 @@
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# macOS
+.DS_Store
